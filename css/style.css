@@ -1,0 +1,16 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: 'Big Shoulders Display', sans-serif;
+	font-family: 'Lexend Deca', sans-serif;
+}
+
+.box {
+	height: 500px;
+	width: 300px;
+	background-color: #333;
+}
